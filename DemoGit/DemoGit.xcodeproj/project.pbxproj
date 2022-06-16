@@ -11,6 +11,7 @@
 		4FAAD05F285B18250069F1D1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FAAD05E285B18250069F1D1 /* ContentView.swift */; };
 		4FAAD061285B18260069F1D1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FAAD060285B18260069F1D1 /* Assets.xcassets */; };
 		4FAAD064285B18260069F1D1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FAAD063285B18260069F1D1 /* Preview Assets.xcassets */; };
+		7B01C620285B29F90070A7F5 /* Marieview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B01C61F285B29F90070A7F5 /* Marieview.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4FAAD05E285B18250069F1D1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4FAAD060285B18260069F1D1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4FAAD063285B18260069F1D1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7B01C61F285B29F90070A7F5 /* Marieview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Marieview.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				4FAAD05C285B18250069F1D1 /* DemoGitApp.swift */,
 				4FAAD05E285B18250069F1D1 /* ContentView.swift */,
+				7B01C61F285B29F90070A7F5 /* Marieview.swift */,
 				4FAAD060285B18260069F1D1 /* Assets.xcassets */,
 				4FAAD062285B18260069F1D1 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B01C620285B29F90070A7F5 /* Marieview.swift in Sources */,
 				4FAAD05F285B18250069F1D1 /* ContentView.swift in Sources */,
 				4FAAD05D285B18250069F1D1 /* DemoGitApp.swift in Sources */,
 			);
